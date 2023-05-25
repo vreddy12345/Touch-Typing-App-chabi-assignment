@@ -33,7 +33,7 @@ To run the touch typing application on your local machine, follow these steps:
 4. Start the development server:
     npm start
 
-Open your browser and go to http://localhost:3000 to view the application.
+Open your browser and go to https://646ed7737be7e764b5f2f29e--silver-jalebi-4b6cd6.netlify.app/ to view the application.
 
 Usage
 Click on the "Start Practice" button to begin the touch typing practice.
